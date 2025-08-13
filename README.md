@@ -119,9 +119,9 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 ## Models for Private Deployment
 > Open-weight models and model libraries you can self-host.
 
-- [LLaMA 3](https://ai.meta.com/llama/) - Meta’s open-weight language model.
-- [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) - Dense 7B parameter model.
-- [Phi-3](https://github.com/microsoft/Phi-3) - Small, high-quality models from Microsoft.
+- [LLaMA](https://ai.meta.com/llama/) - Meta’s open-weight language models.
+- [Mistral](https://docs.mistral.ai/#free-models) - Open source models by Mistral AI.
+- [Phi](https://github.com/microsoft/PhiCookBook/blob/main/md/01.Introduction/01/01.PhiFamily.md) - Small, high-quality models from Microsoft.
 - [Mixtral](https://mistral.ai/news/mixtral-of-experts/) - Mixture-of-experts model.
 - [Falcon](https://falconllm.tii.ae) - Open-source model from TII.
 - [MLX Community](https://huggingface.co/mlx-community) - Community-driven Hugging Face page for open MLX models, optimized for Apple Silicon and private deployment.
